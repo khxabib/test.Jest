@@ -1,8 +1,8 @@
 {
-  "name": "spec",
+  "name": "test.jest",
   "version": "1.0.0",
   "description": "node.spes/spec.js",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
